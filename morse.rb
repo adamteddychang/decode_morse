@@ -1,5 +1,4 @@
 def decodechar(str)
- 
   case str
   when '.-'
     result = 'A'
@@ -73,11 +72,9 @@ def decodechar(str)
     result = '8'
   when '----.'
     result = '9'
-  else 
+  else
     result = str
   end
 
-
   return result
-
- end
+end
