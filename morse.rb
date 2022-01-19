@@ -1,5 +1,3 @@
-
- 
 def decodechar(str)
  
   case str
@@ -75,16 +73,11 @@ def decodechar(str)
     result = '8'
   when '----.'
     result = '9'
-  
+  else 
+    result = str
   end
 
 
   return result
 
  end
-
-puts decodechar('....') 
-puts decodechar('.') 
-puts decodechar('.-..') 
-puts decodechar('.-..') 
-puts decodechar('---') 
