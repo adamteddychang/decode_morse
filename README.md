@@ -18,6 +18,10 @@ Clone the project by using terminal:
 
 ```
 git clone https://github.com/adamteddychang/decode_morse.git
+
+
+ruby morse.rb
+ruby decode.rb
 ```
 
 
