@@ -5,13 +5,6 @@
 > This project uses Ruby to decode morse code.
 
 
-
-
-
-
-
-
-
 ## Built With
 
 - Ruby
